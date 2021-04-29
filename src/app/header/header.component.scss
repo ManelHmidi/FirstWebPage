@@ -1,0 +1,41 @@
+.navbar{
+    height: 100px;
+    padding: 10px 90px 10px 80px;
+}
+.navbar-nav 
+{
+
+    padding-left: 120px;
+}
+
+.fonts{
+    color:#FFFFFF !important;
+    width: 170px;
+    height: 50px;
+    background-color: #cc3528;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    padding: 10px 35px 10px 35px;
+    letter-spacing: 3px;
+
+    font-weight: 600;
+
+}
+.nav-item a 
+{
+
+    padding-left: 40px;
+    color:#161616 !important;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.navbar-toggler-icon {
+color: white !important;
+  background-color: black;  }
+  .navbar-nav{
+      z-index: 99px;
+  }
